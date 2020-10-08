@@ -11,14 +11,10 @@ footer {
     padding: 1px; /* tweaked from 0 to 1px */
 }
 
-
-.text-centered{
-  text-align: center;
-}
-
 .persian-orange{
   background-color: #C18C5D;
   color: rgb(59, 57, 57);
+  text-align: center
 }
 
 h1{
@@ -36,9 +32,10 @@ h1{
   background-color: #BA9790;
 }
 
-h3,h4,h5{
+h3{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
+  text-align: center
 }
 
 
@@ -48,11 +45,13 @@ h3,h4,h5{
   margin: auto;
 }
 
-.btn-contact, .btn-thinkful{
+.btn-contact:hover, .btn-thinkful:hover{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 15px;
   color: #fff;
   background-color: #5cb85c;
   border-color: #4cae4c;
 }
+
+
 
