@@ -19,8 +19,9 @@ footer {
 
 h1{
    font-family: 'Architects Daughter', cursive;
-   border-bottom: 3px solid #3f4c66;
+   border-bottom: 4px solid #3f4c66;
   font-size: 48px;
+  height: 80px
 }
 
 .img-centered {
@@ -35,7 +36,15 @@ h1{
 h3{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
-  text-align: center
+  text-align: center;
+  height: 50px;
+}
+
+h4{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  height: 50px;
 }
 
 
@@ -52,6 +61,5 @@ h3{
   background-color: #5cb85c;
   border-color: #4cae4c;
 }
-
 
 
